@@ -1,0 +1,46 @@
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.to-do-lost{
+    background-color: rgb(43, 224, 224);
+    width: 571px;
+    height: 601px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+h1{
+    color: blue;
+    text-align: center;
+}
+#addtask{
+    margin:10px 63px;
+}
+input{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    height: 30px;
+    width: 332px;
+    text-align: center;
+   
+}
+#btn{
+    height: 30px;
+}
+#adiv{
+    background-color: azure;
+    color: black;
+    text-align: center;
+    width: 403px;
+    height: 52px;
+    margin: 10px 14px 18px 48px;
+}
+#divcr{
+    display: flex;
+    flex-direction: row;
+}
