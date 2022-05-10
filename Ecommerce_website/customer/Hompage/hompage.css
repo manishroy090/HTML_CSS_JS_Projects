@@ -1,0 +1,58 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  
+}
+body{
+  background-image: url("../Resources/image/banner.jpg");
+  background-size: cover;
+  width: 1422px;
+  height: 700px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  
+  
+}
+.left_side {
+  width: 50%;
+}
+.left_side ul {
+  display: flex;
+  flex-direction: row;
+  font-size: 20px;
+
+  
+}
+.left_side ul li {
+  margin: 10px 10px;
+  list-style: none;
+  
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+.right_side {
+ 
+  width: 50%;
+  display: flex;
+  justify-content:flex-end;
+}
+.right_side ul {
+  display: flex;
+  align-self: center;
+  font-size: 20px;
+
+  flex-direction: row;
+}
+.right_side ul li {
+  margin: 10px 10px;
+  list-style: none;
+}
+ ul li a{
+    text-decoration: none;
+
+}
+

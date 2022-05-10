@@ -1,0 +1,32 @@
+#details{
+ border: 1px solid black;
+ width: 302px;
+ height: 427px;
+ margin: 100px auto;
+ text-align: center;
+}
+#btn{
+ height: 42px;
+ width: 100px;
+ float:inline-end;
+ margin-left: 100px;
+}
+#btn:hover{
+    background-color: rgb(16, 231, 213);
+    color: #fff;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    
+}
+#top{
+    display: flex;
+    flex-direction: row;
+    margin: 10px auto;
+    gap:100px
+    
+}
+h1{
+    margin-left: 170px;
+}

@@ -1,0 +1,16 @@
+ table { 
+     margin: 100px 100px;
+    border: 1px solid black;
+    margin:50px auto;
+    
+ }
+ td{
+     border: 1px solid black;
+     width: 160px;
+     height: 100px;
+     text-align: center;
+ }
+ th{
+    border: 1px solid black; 
+ }
+ 
